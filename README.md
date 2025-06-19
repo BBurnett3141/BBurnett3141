@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in reading, gaming, fishing, and programming.
-- 🌱 I’m currently learning Javascript and C#.
+- 🌱 I’m currently learning Mircosoft Azure.
 - 💞️ I’m looking to collaborate on ... nothing currently.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
