@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterfulTurtle!
+- 👋 Hi, I’m Ben!
 - 👀 I’m interested in reading, gaming, fishing, and programming.
 - 🌱 I’m currently learning Javascript and C#.
 - 💞️ I’m looking to collaborate on ... nothing currently.
